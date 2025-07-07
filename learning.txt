@@ -1,1 +1,65 @@
-Git basics 
+What I have learned from this course
+
+The lesson of this task is to teach you the foundational skills of using Git and GitHub, which are essential for collaborating on coding and software projects. This is often the first step in becoming proficient with version control and working in modern software development environments.
+
+🔑 Key Lessons from Each Part
+0. Create and Manage Your First Repository
+What you learn:
+
+How to create a GitHub account and public repository
+
+How to create files and commit them to GitHub
+
+How to write meaningful commit messages
+
+How to view your commit history
+
+Why it's important:
+This helps you get comfortable with the GitHub interface and the concept of version control (tracking changes in files over time).
+
+1. Working With Branches and Making Pull Requests
+What you learn:
+
+How to create and work in a branch
+
+How to create a pull request (PR) and review changes
+
+How to merge changes into the main branch
+
+Why it's important:
+In real projects, branches let developers work independently on new features or fixes. Pull requests are used for code review and collaboration before merging into the main project.
+
+2. Collaborating via Forking and Pull Requests
+What you learn:
+
+How to fork someone else's repository (make a copy)
+
+How to make contributions and submit a pull request back to the original repository
+
+Why it's important:
+Forking is how you contribute to open-source projects. This part teaches you how to collaborate with others outside your own repo.
+
+3. Cloning, Editing Locally, and Syncing Changes
+What you learn:
+
+How to clone a repository to your local machine
+
+How to make changes locally and commit them using Git commands
+
+How to push those changes back to GitHub
+
+Why it's important:
+This introduces the full development workflow — from working locally on your computer to syncing with GitHub. These skills are used every day in real-world development.
+
+🎓 Overall Learning Objectives:
+Understand Git and GitHub workflows
+
+Learn version control basics
+
+Learn how to collaborate in coding projects
+
+Gain experience using:
+
+git clone, git add, git commit, git push, git branch, and git merge
+
+GitHub Pull Requests and Forks
